@@ -1,4 +1,4 @@
-# react-base
+# react-html-base
 
 ## 创建 github 项目，通过 webstorm 使用
 
